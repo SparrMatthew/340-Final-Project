@@ -1,0 +1,13 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "name": "C/C++ Runner: Debug Session",
+      "type": "lldb",
+      "request": "launch",
+      "args": [],
+      "cwd": "/Users/zacpalmer1/Desktop/340-Final-Project",
+      "program": "/Users/zacpalmer1/Desktop/340-Final-Project/build/Debug/outDebug"
+    }
+  ]
+}
