@@ -24,7 +24,7 @@ int get_cache_block_size(int maximum)
 
     int cacheSize;
 
-    // outermost loop
+    // outermost loop of
     for (i = 1; i <= maximum; i *= 2)
     {
         temp_time_1 = avgTime;
